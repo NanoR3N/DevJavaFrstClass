@@ -1,0 +1,7 @@
+SUBIENDO CAMBIOS AL REPOSITORIO
+Como habíamos aclarado desde el comienzo, que a todos los cambios los vamos a subir sobre la
+rama principal de nuestro repositorio remoto, es conveniente que cada colaborador trabaje sobre
+archivos diferentes en sus repositorios locales. Por lo tanto, cuando uno de los integrantes del
+equipo necesita subir un cambio hecho sobre alguno de los archivos de su repositorio local (PC)
+al repositorio remoto (el alojado en la web), la acción a realizar será hacer un COMMIT y PUSH.
+A estas operaciones obviamente las realizaremos desde GitHub Desktop.

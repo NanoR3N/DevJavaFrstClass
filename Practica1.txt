@@ -5,3 +5,4 @@ archivos diferentes en sus repositorios locales. Por lo tanto, cuando uno de los
 equipo necesita subir un cambio hecho sobre alguno de los archivos de su repositorio local (PC)
 al repositorio remoto (el alojado en la web), la acción a realizar será hacer un COMMIT y PUSH.
 A estas operaciones obviamente las realizaremos desde GitHub Desktop.
+Cambios
